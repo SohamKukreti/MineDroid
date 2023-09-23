@@ -21,7 +21,7 @@ REPLICATE_API_TOKEN = <your replicate api token>
 ```
 3. Finally install all the required dependencies
 ```
-pip install langchain tiktoken replicate streamlit_chat 
+pip install langchain tiktoken replicate streamlit_chat googletrans==3.1.0a0
 ```
 ## Running the bot at your terminal:
 To run the chatbot load your preferred .txt file.
