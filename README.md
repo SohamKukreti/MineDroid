@@ -11,7 +11,7 @@ Chatbot to respond to text queries pertaining to various Acts, Rules, and Regula
 ```
 pip install langchain openai chromadb tiktoken unstructured
 ```
-Head over to `constants.py.default` and insert your own [OpenAI API key](https://platform.openai.com/account/api-keys), and rename it to `constants.py`.
+Head over to `constants.py` and insert your own [OpenAI API key](https://platform.openai.com/account/api-keys).
 
 To run the pdf_reader:
 1. Create a python virtual environment and a .env file
