@@ -3,3 +3,6 @@ openai
 chromadb 
 tiktoken 
 unstructured
+streamlit_chat
+replicate
+pypdf
