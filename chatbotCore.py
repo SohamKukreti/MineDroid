@@ -2,19 +2,20 @@ import os
 import sys
 import openai
 from googletrans import Translator
-from langchain.chains import ConversationalRetrievalChain, RetrievalQA
+from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import DirectoryLoader, TextLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
-from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 import constants
-os.environ["OPENAI_API_KEY"] =  constants.APIKEY
+
+os.environ["OPENAI_API_KEY"] = constants.APIKEY
 PERSIST = False
 global query
-query = None   
+query = None
+
 if len(sys.argv) > 1:
     query = sys.argv[1]
 
@@ -37,26 +38,16 @@ chain = ConversationalRetrievalChain.from_llm(
 
 chat_history = []
 
-def run_module(s):
-    global query
-    chat_history = []
-    while True:
-        if not query:
-            query = s
-        if query in ['quit', 'q', 'exit']:
-            sys.exit()
-        result = chain({"question": query, "chat_history": chat_history})
-        return result['answer']
-
-        chat_history.append((query, result['answer']))
-        query = None
+def run_chatbot(query):
+    result = chain({"question": query, "chat_history": chat_history})
+    chat_history.append((query, result['answer']))
+    return result['answer']
 
 if __name__ == "__main__":
     print("Input Some text : ")
-    text = input() #Optional, remove if you are taking input from frontend 
+    text = input()  # Optional, remove if you are taking input from frontend
     translator = Translator()
     detectedLang = translator.detect(text).lang
-    translated = translator.translate(text,dest = 'en')
-    outputText = run_module(translated.text)
-    print(translator.translate(outputText,dest = detectedLang).text)
-
+    translated = translator.translate(text, dest='en')
+    outputText = run_chatbot(translated.text)
+    print(translator.translate(outputText, dest=detectedLang).text)
