@@ -55,6 +55,8 @@ if __name__ == "__main__":
     print("Input Some text : ")
     text = input() #Optional, remove if you are taking input from frontend 
     translator = Translator()
-    out = translator.translate(text,dest = 'en')
-    print(run_module(out.text))
+    detectedLang = translator.detect(text).lang
+    translated = translator.translate(text,dest = 'en')
+    outputText = run_module(translated.text)
+    print(translator.translate(outputText,dest = detectedLang).text)
 
