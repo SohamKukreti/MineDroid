@@ -6,3 +6,4 @@ unstructured
 streamlit_chat
 replicate
 pypdf
+googletrans==3.1.0a0
