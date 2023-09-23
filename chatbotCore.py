@@ -1,6 +1,7 @@
 import os
 import sys
 import openai
+from googletrans import Translator
 from langchain.chains import ConversationalRetrievalChain, RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import DirectoryLoader, TextLoader
@@ -52,6 +53,8 @@ def run_module(s):
 
 if __name__ == "__main__":
     print("Input Some text : ")
-    x = input() #Optional, remove if you are taking input from frontend 
-    print(run_module(x))
+    text = input() #Optional, remove if you are taking input from frontend 
+    translator = Translator()
+    out = translator.translate(text,dest = 'en')
+    print(run_module(out.text))
 
