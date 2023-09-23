@@ -1,0 +1,213 @@
+Laws Relating to Mines & Minerals in India
+
+The essence of federalism lies in the sharing of legal sovereignty by the Union and the federating units. And, in general, the most precise way of demarcating the respective areas of the federation and federating units is to demarcate their respective areas in regard to legislation. There are many reasons for this; but one of the most important, is the demarcation of legislative power which helps in defining boundaries that of the executive power also, as usually the former controls the latter.
+
+The constitutional provisions in India on the subject of distribution of legislative powers between the Union and the States are spread out over several articles (articles 245-254). However, the most important of those provisions – i.e, the basic one – is that contained in articles 245-246.
+
+Article 245 provides, inter alia, that (subject to the provisions of the Constitution).
+
+# Parliament may make laws for the whole or any part of the territory of India and
+# the legislature of a State may make laws for the whole or any part of the State.
+
+Thus, article 245 sets out the limits of the legislative powers of the Union and the States from the geographical (or territorial) angle. From the point of view of the subject matter of legislation, it is article 246 which is important. Article 246 reads as under:
+
+1) Notwithstanding anything in clauses (2) and (3), Parliament has exclusive power to make laws with respect to any of the matters enumerated in List 1 of the Seventh Schedule (in this Constitution, referred to as the “Union List”).
+
+2) Notwithstanding anything in clause (3), Parliament, and subject to clause (1), the Legislature of any State also, shall have power to make laws with respect to any of the matters enumerated in List III in the Seventh Schedule (in this Constitution, referred to as the “Concurrent List”).
+
+3) Subject to clauses (1) and (2), the Legislature of any State has exclusive power to make laws for such State or any part thereof with respect to any of the matters enumerated in List II in the Seventh Schedule (in this Constitution, referred to as the “State List”)
+
+4) Parliament has power to make laws with respect to any matter for any part of the territory of India not included in a State, notwithstanding that such matter is a matter enumerated in the State List”.
+
+The co-existence of Central and State laws in a particular area can give rise to litigation. Such problems arise, either because the Union or a State may illegally encroach upon the province of the other (parallel) legislature, or they may arise because (though there is no encroachment, as such, on each other’s sphere), the two laws clash with each other.
+
+The two situations are, strictly speaking, different from each other; and they must be judged by two different tests. Where the subject-matter of the legislation in question falls within either the Union List or the State list only, then the question is to be decided with reference to legislative competence. One of the two laws must necessarily be void, because (leaving aside matters in the Concurrent List), the Indian Constitution confers exclusive jurisdiction upon Parliament for matters in the Union List and upon a State Legislature for matters in the State List. The correct doctrine applicable in such cases is that of ultra vires. Since one of the two laws must be void, the question of inconsistency between the two has no relevance. Only one law will survive; and the other law will not survive, because ex hypothesi, it has no life.
+In contrast, where the legislation passed by the Union and the State is on a subject matter included in the Concurrent List, then the matter cannot be determined by applying the test of ultra vires because the hypothesis is, that both the laws are (apart from repugnancy), constitutionally valid. In such a case, the test to be adopted will be that of repugnancy, under article 254(2), of the Constitution.
+
+It follows, that it is only where the legislation is on a matter in the Concurrent List, that it would be relevant to apply the test of repugnancy. Notwithstanding the contrary view expressed in some quarters, this appears to be the correct position. Such a view was expressed by Dr. D. Basu in his Commentary on the Constitution of India (1950) 1st edition, page 564, and it is this view, that seems to have been upheld (impliedly) by the Supreme Court in the under - mentioned decisions: -
+
+1. Deep Chand v. State of U.P., AIR 1959 SC 648; (1959) Suppl. 2 SCR 8.
+2. Premnath v. State of J & K, AIR 1959 SC 749 (1959) Suppl 2 SCR 270.
+3. Ukha v. State of Maharashtra, AIR 1963 SC 1531, paragraph 20.
+4. Bar Council, U.P. v. State of U.P., AIR 1973 SC 231, 238; (1973) 1 SCC 261.
+5. Barani v. Henry, AIR 1983 SC 150, paragraph 15.
+6. Hoechst Pharmaceuticals v. State of Bihar, AIR 1983 SC 1020, paragraphs 68, 69 and 76 (Full decisoon of the position).
+7. Pochanna Lingappa v. State of Maharashtra, AIR 1985 SC 389, paragraph 26; (1985) 1 SCC 425.
+8. Vijay Kumar Sharma v. State of Karnataka, AIR 1990 SC 2072 [For decisions in section 107, Government of India Act, 1935 see Lakhi Narayan Das v. Province of Bihar, AIR 1950 FC 59.]
+
+Four salient features mark the scheme of distribution of legislative powers under the Indian Constitution.
+1) There is a three-fold distribution of legislative power-represented by three lists – Union, State and Concurrent.
+
+2) The supremacy of federal laws is maintained in two situations (which are the principal situations of practical importance):
+
+a. in determining the extent of legislative power of the federation and the units, (if a doubt arises as to the list in which a particular subject of legislation falls, the non obstante clause in article 246 achieves federal supremacy);
+
+b. in determining the question whether a federal law will prevail or a State law will prevail; (if both have an impact on a particular human activity, and are in conflict with each other, then the federal law prevails).
+
+3) If a particular topic does not find an express mention in the three legislative lists, then the power to legislate thereon (i.e., the residuary law-making power) is vested in the federation.
+
+4) In certain situations (even apart from emergencies), the federation may come to be vested with legislative power, even on state subjects.
+
+[Mr. Justice, E. S. Venkataramiah and P. M. Bakshi, Indian Federalism (1992), pages 72-73, para 7.1].
+
+In the federal structure of India, the State Governments are the owner of minerals located within the boundaries of the State concerned. Although mineral wealth vests with the State Govt., yet the subject of regulation of Mines and Minerals development is covered under 7th schedule of constitution of India. Rule making powers in respect of minor minerals have been delegated to the States under section 15 of this Act.
+
+In accordance with article 297 of the Constitution, the Central Government is the owner of the minerals underlying the ocean within the territorial waters or the Exclusive Economic Zone of India. In this connection, entry at serial No. 23 of List II (State list) to the Constitution provides that ‘Regulation of mines and mineral development subject to the provisions of List I with respect to regulation and development under the control of the Union’, are within the purview of States while entry at serial No. 54 of List I states that ‘Regulation of mines and mineral development to the extent to which such regulation and development under the control of the Union is declared by Parliament by law to be expedient in the public interest’ shall be within the purview of the Central Government. In pursuance to entry at serial No. 54 of List I, Parliament has passed legislation titled ‘The Mines & Minerals (Development and Regulation) Act, 1957’ as Central Act (No. 67 of 1957).
+
+The State Governments grant the mineral concessions for all the minerals located within the boundary of the State, under the provisions of the Mines and Minerals (Development and Regulation) Act, 1957 (MMDR) and Mineral Concession Rules, 1960 ( MCR) framed thereunder. Under the provisions of the MMDR Act, 1957 and MCR, 1960, prior approval of the Central Government is required in the following cases:
+
+# Granting mineral concessions in respect of minerals specified in the First Schedule to the Mines and Minerals (Development and Regulation) Act, 1957.
+# Granting areas under prospecting licence and mining lease to a person in excess of limits prescribed under Section 6(1) (a) and Section 6(1) (b) of the Act.
+# Imposing special condition(s) in mining lease under Rule 27(3), in prospecting licence under Rule 14(3) and in reconnaissance permit under Rule 7(3) of Mineral Concession Rules, 1960 over and above the conditions prescribed in MCR, 1960.
+# Granting mineral concession in an area previously reserved by the Government, or previously held under a mineral concession, without first notifying the same by relaxing the provisions of Rule 59(1) under # Rule 59(2) of MCR, 1960.
+# Revision of any order made by State Government with respect to any mineral except a minor mineral. ( Section 30 of MMDR Act.)
+# Relaxation of Rules in special cases under Section 31 of the Act, keeping in view the interest of mineral development.
+
+There are three kinds of mineral concessions, viz Reconnaissance Permit (RP), Prospecting License(PL) and Mining Lease(ML). RP is granted for preliminary prospecting of a mineral through regional, aerial, geophysical or geochemical surveys and geological mapping. The RP for any mineral or prescribed group of associated minerals is granted for 3 years and for a maximum area of 5,000 sq. kms, to be relinquished progressively. After 2 years, the area should be reduced to 1,000 sq. kms or 50% of the area granted, whichever is less. At the end of 3 years, area held under an RP should be reduced to 25 sq kms. In a State, a person can be granted a maximum area of 10,000 sq. kms under RP subject to the condition that area in a single RP does not exceed 5000 sq. kms. A RP holder has preferential right to obtain PL(s) in the area concerned.
+
+PL is granted for undertaking operations for the purpose of exploring, locating or proving mineral deposit. A PL for any mineral or prescribed group of associated minerals is granted for a maximum period of 3 years. A PL can be renewed in such a manner that the total period for which a PL is granted does not exceed 5 years. In a State, a person can be granted a maximum area of 25 sq. kms in one or more PLs, but if the Central Government is of the opinion that in the interest of development of any mineral it is necessary to do so, the maximum area limit can be relaxed. A PL holder has preferential right to obtain ML in the area concerned.
+
+ML is granted for undertaking operations for winning any mineral. A ML for any mineral or prescribed group of associated minerals is granted for a minimum period of 20 years and a maximum period of 30 years. A ML can be renewed for periods not exceeding 20 years each. In a State, a person can be granted a maximum area of 10 sq. kms in one or more MLs, but if the Central Government is of the opinion that in the interest of development of any mineral it is necessary to do so, the maximum area limit can be relaxed.
+
+In pursuance of the reforms initiated by the Government of India in July, 1991 in fiscal, industrial and trade regimes, the National Mineral Policy was announced in March, 1993. The National Mineral Policy recognized the need for encouraging private investment, including foreign direct investment and for attracting state-of-the-art technology in the mineral sector. Further, the policy stressed that the Central Government, in consultation with the State Governments, shall continue to formulate legal measures for the regulation of mines and the development of mineral resources to ensure basic uniformity in mineral administration so that the development of mineral resources keeps pace, and is in consonance with the national policy goals.
+
+In furtherance of the objective of the National Mineral Policy, the MMDR Act, 1957 has been amended twice in 1994 and 1999. The Mineral Concession Rules, 1960 (MCR) and the Mineral Conservation and Development Rules 1988 (MCDR), framed under the MMDR Act, 1957 have also been modified. Salient features of the amended mining legislation are as follows:
+
+(i) There is no restriction on foreign equity holding in mining sector companies registered in India.
+
+(ii) There is a greater stability of tenure of mineral concessions, since the minimum period of a mining lease is twenty years and a maximum period of thirty years. A mining lease may be renewed for a period not exceeding twenty years and may again be renewed for a period not exceeding twenty years in respect of minerals specified in Part C of the First Schedule of the Act. In respect of minerals specified in Part A and B of the First Schedule of the Act such renewal may be granted with the previous approval of the Central Government. The period of prospecting license now is three years, with possibility of renewal for a further period of two years.
+
+(iii) Thirteen minerals like iron ore, manganese ore, chrome ore, sulphur, gold, diamond, copper, lead, zinc, molybdenum, tungsten, nickel and platinum group of minerals which were reserved exclusively for exploitation by the public sector, have now been thrown open for exploitation by the private sector.
+
+(iv) With the 1999 amendment, a concept of reconnaissance operations, as a stage of operation distinct from and prior to actual prospecting operations, was introduced. The period of reconnaissance permit is three years. A reconnaissance permit holder enjoys preferential right for grant of prospecting licence.
+
+(v) Area restrictions notified for reconnaissance permit, prospecting license and mining lease have been made applicable state-wise, instead of the country as a whole.
+
+(vi) In 1994, fifteen minerals were removed from the list of minerals included in the First Schedule to the MMDR Act, 1957. With further amendments in 1999, the mineral limestone was deleted from the First Schedule, and permission of the Central Government is now required for grant of mining lease, prospecting license, and reconnaissance permit in respect of only ten non-fuel and non atomic minerals. These minerals are asbestos, bauxite, chrome ore, copper ore, gold, iron ore, lead, manganese ore, precious stones and zinc.
+
+(vii) State Governments have been delegated powers to grant mineral concessions even for areas which are not compact or contiguous.
+
+(viii) State Governments have been empowered to permit amalgamation of two or more adjoining mining leases.
+
+(ix) State Governments have been empowered to renew prospecting licenses/mining leases in respect of specified minerals listed in Part C of the First Schedule, and approval of Central Government is not necessary.
+
+(x) State Governments have been delegated powers to approve mining plans in respect of 29 nonmetallic/ industrial minerals in case of open cast mines.
+
+(xi) A time limit of ninety days has been prescribed for the Indian Bureau of Mines and the State Governments to convey the decision on mining plans submitted for approval.
+
+(xii) Time limits have been prescribed for conveying a decision on applications for mineral concessions, viz. six months for reconnaissance permits, nine months for prospecting licences and twelve months for mining leases.
+
+The procedure for grant of mineral concessions is that all such applications are received and processed in the Directorate of mines. The application which is received is required to be acknowledged in the prescribed form. The application is thereafter sent to the draughtsman and surveying section to ascertain the availability of the area. After doing the needful, the case is further processed by the dealing hand. If any deficiencies are noticed in the matter of submission of documents as required under the law or as decided by the competent authority, the same are brought to the notice of the applicant for rectification. References are also made to Revenue and Forest Department to ascertain their views on the suitability of the site from the point of public nuisance or forestry angle. The area is also inspected by a geologist of this Directorate to ascertain the suitability of the area from mineral potential point of view including the possible adverse effects arising from prospecting or mining activity. If the area involved is a forest land the case is processed for clearance under section 2 of FCA if the state government agrees in principle to grant the prospecting licence/mining lease. Clearance under section 2 of FCA 1980 involves a detailed proposal from the applicant in terms of Forest Conservation Rules and the guidelines prescribed by Ministry of Environment. The applicant is also directed to obtain environmental clearance in terms of EIA Notification dated 14/09/2006.
+
+Irrespective of the above scrutiny and action under FCA if required, the application is also processed for obtaining a prior approval of the Ministry of Mines, Government of India, if the mineral involved is listed in Schedule I to the Act 1957. After obtaining the prior approval of the Ministry of Mines, Government of India as well Ministry Of Environmental Forest, Government of India (where forest land is involved) and the environmental clearance, the case is put up for approval of the State Government. After the issue of the order of grant by the State Government, the area applied for grant of mineral concession is surveyed and demarcated on the ground. A plan is prepared by the surveyor which is signed by the surveyor, the Senior Geologist and the Director and kept in the file as the original document. A true copy of the plan is prepared by the draughtsman, which forms a part of the lease deed document. The applicant is thereafter called upon to effect the payment towards security deposit as well as expenses involving survey, issue of certified copy of plan. A lease deed is thereafter executed at Government level.
+
+Entry 23 of the State List relates to “Regulation of mines and mineral development”. However, it is expressly subject to the provisions of the Union List with respect to regulation and development under the control of the Union. Entry 54 of the Union List provides for “Regulation of mines and mineral development to the extent to which such regulation and development under the control of the Union is declared by Parliament by law to be expedient in the public interest”. It is significant that Entry 23 of List II has not been made subject to any specific Entry of List I. This means that apart from Entry 54, there are other Entries in List I which may, to an extent, overlap and control, the field of Entry 23 of List II.
+
+The Constitutional arrangements regarding the regulation of Mines and Minerals Development are generally on the lines of Government of India Act, 1935, except that the Entry relating to “Oil fields” has been dealt within a separate Entry, of the Union List in the Constitution. (Entry 53 List I).
+
+Parliament has enacted the Mines and Minerals (Regulation and Development) Act, 1957 (MMRD Act) to “provide for regulation of mines and the development of minerals under the control of the Union” in public interest.
+
+Conflicts do arise as to how much of the field of Entry 23 of List II has been taken over by Parliament by enacting the MMRD Act, 1957 by virtue of Entry 54 of List I. Conflicts can also arise when States impose taxes under Entries 18, 49 and 50 of List II. The Constitutional position with regard to Entries on regulation of mines and minerals development and the related Entries in List I and II, therefore, needs to be examined. The Supreme Court has considered these points in a number of reported cases.
+
+The power of the State legislature under Entry 23 has been made subject to the provisions of List I with respect to regulation and development under the control of the Union. Parliament enacted the MMRD Act. A question arose in regard to the extent of the legislative power of the State following an enactment under Entry 54 of List I. It was held by the Supreme Court:
+
+“The jurisdiction of the State legislature under Entry 23 is subject to the limitations imposed by the latter part of the Entry. If Parliament by its law has declared that regulation and development of mines should in public interest be under the control of the Union, to the extent of such declaration the jurisdiction of the State Legislature is excluded. In other words, if a Central Act has been passed which contains a declaration by Parliament as required by Entry 54, and if such declaration covers the field occupied by the impugned Act, the impugned Act, will be ultra vires not because of any repugnance between the two statutes but because the State legislature has no jurisdiction to pass a law. The limitations imposed by the latter part of Entry 23 is a limitation on the legislative competence of the State Legislature itself”.
+
+The findings in this case have been followed in other cases. In a subsequent case, the Supeme Court held:
+“Subject to the provisions of List I, the power of the State to enact Legislation on the topic of “mines and minerals development” is plenary. To the extent to which the Union Government had taken under “its control” “the regulation and development of minerals” under Entry 54 of List I so much was withdrawn from the ambit of the power of the State Legislature under Entry 23 of List II and legislation of the State which had rested on the existence of power under that Entry would, to the extent of the “control”, be superseded or be rendered ineffective; for here we have a case not of mere repugnancy between the provisions of the two enactments but of denudation or deprivation of State legislative power by the declaration which Parliament is empowered to make under Entry 54 of List I and has made. The Central Act 67 of 1957 covered the entire field of minerals development that being the “extent” to which Parliament had declared by law that it was expedient that the Union should assume control”.
+
+The result, therefore, of Parliament having occupied the entire field is that the State legislature thereafter lacks legislative competence and consequentially, executive authority in regard to regulation and development of mines and minerals. Therefore, where a law is attributable in pith and substance to Entry 23 of List II, it would not be valid in as much as Parliament has occupied the entrie field.
+
+States have legislative competence with respect to land and connected matters under Entry 18 of List II and regarding taxes on lands and buildings under Entry 49 of List II. Conflicts have arisen in the matter of levies under Entries 18, 49 and 50 of List II on the ground that they impinge upon Entry 54 of List I. These Entries should also be read with Entry 54 of List I. The State Legislatures' competence is not taken away unless it is shown that in pith and substance the enactment relates to Entry 23 of List II. Dealing with the validity of demand for payment of land cess under Sections 78 and 79 of the Madras District Boards Act (1920), the Supreme Court held that these Sections had nothing to do with the development of mines and mineral or their regulation because the proceeds of the land cess were to be used for providing amenities to the people of the area like education, health, etc. It was also observed that the land cess was not a tax or mineral right but was in pith and substance a tax on lands under entry 49 of List II.
+
+Entry 50 of List II relates to taxes on mineral rights. However, this has been made expressly subject to any limitations imposed by Parliament, by law, relating to mineral development. Taxes under Entry 50 of List II do not include royalty and cess.
+
+The MMRD Act, 1957 mainly deals with general restrictions on prospecting and mining operations and the rules and procedures for regulating grants of prospecting licences and mining leases. Section 2 of the Act makes a declaration that it is expedient in the public interest that the Union should take under its control the regulation of mines and the development of minerals to the extent provided in the said Act. In Section 3, the words “Minerals”, “Mineral Oils”, “Minor Minerals” have been separately defined. State Governments are competent to give licences for prospecting and for granting mining leases. The Act specifically provides that in the case of minerals included in the First Schedule to the Act, the State Governments shall not grant or renew, prospecting licences or mining leases without the prior permission of the Union Government. Sections 4 to 12 of the Act deal with the conditions and procedures and other allied matters regarding the prospecting or mining operations under licence or lease. Sections 13 and 13A deal with the rule making power of the Central Government.
+
+It is, however, significant that Section 14 provides that Sections 4 to 13 of the Act shall not apply to minor minerals. Further, Section 15 provides that the State Government's may by notification in the Official Gazette make rule for regarding grant of quarry-lease, mining-lease or other mineral concessions in respect of minor minerals and for the purposes connected therewith. A combined reading of Section 4 to 13 and Section 14, 15 and 18 show that while Parliament's enactment (viz., the MMRD Act) has occupied the entire field, it has specifically exempted minor minerals from the application of Sections 4 to 12 and has also empowered the State Governments in respect of minor minerals.
+
+(Relating To Entry 54 Of List I And Entry 23 of List II and Other Related Matters)
+
+1961(2) SCR 537
+In December 1952, the Legislature of the State of Orissa passed the Orissa Mining Areas Development Fund Act. The Act received assent of the Governor. Rules were also duly notified under the Act.
+
+The Administrative Officer concerned with the enforcement of the Act called upon the petitioners to submit the monthly returns for the assessment of the cess. Subsequently, a warning was issued for non-submission of the returns and threatening prosecution under Section 9 of the Act. The petitioners, therefore, filed a petition challenging, inter alia, the validity of the Act.
+
+The validity of the Act was challenged on several grounds. One of the grounds was that the State Legislature had no jurisdiction under Entry 23 of List II of the Seventh Schedule of the Constitution since that Entry is subject to provisions of List I with respect to Regulation and Development under the control of the Union; that is Entry 54 of List I. The Court held that a combined reading of Entry 54 of List I and Entry 23 of List II had the following effect:
+
+The jurisdiction of the State Legislature under Entry 23 is subject to the limitations imposed by the latter part of the Entry. If Parliament by its law has declared that regulation and development of mines should, in public interest, be under the control of the Union, to the extent of such declaration, the jurisdiction of the State Legislature is excluded. In other words, if a Central act has been passed which contains a declaration by Parliament as required by Entry 54, and if such declaration covers the field occupied by the impugned act, the impugned act will be ultra vires not because of any repugnance between the two statues but because the State Legislature has no jurisdiction to pass a law. The limitations imposed by the latter part of Entry 23 is a limitation on the legislative competence of the State Legislature itself.
+
+(Air 1964 SC 1284)
+The above Company, incorporated under the Indian Companies Act, was working in the Manganese Mine in the State of Orissa under the lease granted by that State under the provision of Mines and Minerals (Development & Regulation) Act, 1948, i.e., Central Act 53 of 1948 and the Rules framed therefrom. While so, the Legislature of State of Orissa passed and act called the Orissa Mining Areas Development Fund Act, 1952 [the same Act was under challenge in Hingir—Rampur Coal Co. Vs. State of Orissa 1961 (2) ACR 537]. The fee under this Act which became due between July 1951 and March 1952 became the subject matter of litigation. A demand was made from the Company. The Company filed a petition before the High Court impugning the legality of the demand and claimed certain assets. The writ petition was allowed by the High Court.
+
+The question arose whether the Mines and Minerals (Development & Regulations) Act, 1948 which is a Central Act has rendered the Orissa Act ineffective. The Supreme Court held as follows:
+
+“Subject to the provisions of List I, the power of the State to enact Legislation on the topic of “mines and mineral development” is plenary. To the extent to which the Union Government had taken under “its control” “the regulation and development of minerals” under Entry 54 of List I so much was withdrawn from the ambit of the power of the State Legislature under Entry 23 of List II and legislation of the State which had rested on the existence of power under that Entry would, to the extent of that “control”, be superseded or be rendered ineffective, for here we have a case not of mere repugnancy between the provisions of the two enactments but of a denudation or deprivation of State legislative power by the declaration which Parliament is empowered to make under Entry 54 of List I and has made. The Central Act 67 of 1957 covered the entire field of mineral development, that being the “extent” to which Parliament had declared by law that it was expedient that the Union should assume control”.
+
+Relaying on the provisions of Sec. 18(1) which cast a duty upon Union Government “to take all such steps as may be necessary for the conservation and development of minerals in India” and “for that purpose the Central Government may, by notification, make such rules as it may deem fit”, it was contended that the entire field of mineral development including the provision of amenities to workmen employed in the mines, vested with the Union Government. The Court was inclined to agree to this contention but held that this position has been concluded by its decision in Hingir-Rampur Coal Co. Vs. State of Orissa [1961 (2) SCR 537].
+
+(AIR 1965 SC 177)
+The appellant's father had obtained a mining lease from the Government of Madras. He was permitted to work on the mines and mine the ore in the leased property. It is material to point out that under the lease, the lessee was bound to pay certain rent per year if he used the land for the extraction of iron ore and higher amount if he used the land for other purpose. Besides, he also bound himself to pay certain royalty per ton of iron ore if the ore was used for extraction or if the iron ore was used for any other purpose for sale at the rate of Re. 1 per ton (or a higher amount). In addition, there was a stipulation that there was a payment for surface rent.
+
+To raise finance for carrying out local administration in the District Board, several taxes are leviable. Among them, Section 78 of the Madras Distribution Act of 1920 imposes a land cess on lands in the State.
+
+After his father's death, two notices were issued on the appellant demanding payment of the land cess by the District Board for the years 1952—54 and 1955—57 and threatening action in the event of non-payment. The appellant challenged the validity of the notices in the High Court of Andhra Pradesh. The Petition was dismissed. The matter came in appeal before the Supreme Court. One of the contentions was that with the passing of Mines and Minerals (Development and Regulation) Act, 1957, the land cess that could be levied under the District Board Act must be exclusive of royalty under the mining lease.
+
+It was held that there was no connection between regulations and development of mines and minerals dealt with in the Central Act of 1957 and the levy and collection of land cess for which the provision was made by Sections 78 and 79 of the District Boards Act. Therefore, there was no scope at all for the argument that there was anything common in between the District Board's Act and Central Act of 1957 so as to require a detailed examination of these enactments for discovering whether there was any overlapping.
+
+It was further held that land cess imposed by the Madras District Board Act was in truth a tax on land as per Entry 49 of State List and not a tax on minerals under Entry 50 of State List.
+
+The Court also relied on its earlier decisions AIR 1961 SC 459 (Hingir-Rampur Coal Co. Vs. State of Orissa and AIR 1964 SC 1284—State of Orissa Vs. M.A. Tullock and Company).
+
+(AIR 1970 SC 1436)
+The appellant was the transferee of a lease-hold right, the lessor being one Babu Bijan Kumar Pande. The rent accruing on the lease was deposited upto September 1965.
+
+On coming into force of the Bihar Land Reforms Act, 1950, the lessor Babu Bijan Kumar Pande ceased to have any interest from the date of vesting of the property in the State of Bihar because as per provisions of that Act, the State of Bihar was deemed to be the new lessor.
+
+In its capacity as the new lessor, the rent and royalty, etc. in respect of mining and minerals irrespective of the date on which the lease was granted were to be paid by all categories of lessees to the State of Bihar according to the rates given in the rules framed under Bihar Act referred to above. A demand was made according to these rules which became the subject matter of controversy.
+
+The main question that came up for consideration before the Supreme Court was the effect of the combined reading of Entry 54 of the Union List and Entry 23 of the State List of the Seventh Schedule to the Constitution. The Court held—
+
+“....it is open to Parliament to declare that it is expedient in the public interest that the control should rest in the Central Government. To what extent such a declaration can go is for the Parliament to determine and this must be commensurate with the public interest. Once this declaration is made and extent laid down, the subject of legislation to the extent laid down becomes an exclusive subject for legislation by Parliament. Any legislation by the State after such declaration and trenching upon the field disclosed in the declaration must necessarily be unconstitutional because that field is abstracted from the legislative competence of the State Legislature”.
+
+The Court also relied upon its own decisions in Hingir-Rampur Coal Company v. State of Orissa (AIR 1961 SC 459) and State of Orissa v. M.A. Tulloch & Co. (AIR 1964 SC 1284). The Court further held:
+
+“these two cases binding and apply here. Since the Bihar Legislature amended the land reforms Act after coming into force of Act 67 of 1957, the declaration in the latter Act would carve out a field to the extent provided in that Act and to that extent Entry 23 would stand cut down. To sustain the amendment, the State must show that the matter is not covered by the Central Act. The other side must of course, show that the matter is already covered and there is no room for legislation”.
+
+
+*Frequently Asked Questions (FAQs) - Mining Industry and Laws*
+
+*1. What are the key Acts and Rules governing the Mining Industry in India?*
+   - The Coal Mines Act, 1952
+   - Indian Explosives Act, 1884
+   - Colliery Control Order, 2000
+   - Colliery Control Rules, 2004
+   - The Coal Mines Regulations, 2017
+   - The Payment of Wages (Mines) Rules, 1956
+
+*2. What is the purpose of the Coal Mines Act, 1952?*
+   - The Coal Mines Act, 1952, regulates the working conditions, safety, and welfare of laborers in coal mines.
+
+*3. How does the Indian Explosives Act, 1884, relate to mining?*
+   - This act governs the handling, storage, and use of explosives, which are often used in mining operations.
+
+*4. What do the Colliery Control Order and Rules pertain to?*
+   - They cover various aspects of colliery management, safety, and operational procedures in coal mines.
+
+*5. What is the significance of The Coal Mines Regulations, 2017?*
+   - These regulations set detailed standards for safety, health, and environmental protection in coal mining.
+
+*6. How are wages regulated in mining?*
+   - The Payment of Wages (Mines) Rules, 1956, specify the rules for the payment of wages to mine workers.
+
+*7. Are there any land-related laws that apply to mining?*
+   - Yes, land-related laws like CRA (Coal Bearing Areas Act), LA (Land Acquisition Act), and RandR (Rehabilitation and Resettlement) laws can also be relevant to mining projects.
+
+*8. Where can I find more information about these laws and regulations?*
+   - You can consult official government websites, legal authorities, or contact the Ministry of Coal for detailed information.
+
+*9. How can I stay updated on changes in mining laws?*
+   - It's advisable to regularly check official government websites and subscribe to relevant industry publications for updates.
+
+*10. Is there a 24/7 chatbot available for mining industry queries?*
+    - Yes, the Ministry of Coal has developed a chatbot using AI and NLP technology to answer queries related to mining laws, acts, and regulations.
