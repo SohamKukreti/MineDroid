@@ -13,7 +13,7 @@ logo_path = "logo.png"
 
 menu = st.sidebar.selectbox("Navigation", ["Home", "ChatBot", "PDF_Reader", "Contact"])
 
-facts = ["fact1", "fact2", "fact3", "fact4", "fact5", "fact6", "fact7", "fact8", "fact9", "fact10", "fact11"]
+facts = ["The average modern electronic device has more than 35 minerals in it.","The first metals to be unearthed were gold and copper.","The oldest known mine is believed to be the Lion Cave in Swaziland","In the future, mining could extend beyond Earth like the possibility of mining asteroids","India has a long history of mining, with evidence of mining activities dating back to the Indus Valley Civilization around 3000 BCE.","Rare earth elements, essential for electronics and renewable energy technologies, are actually not rare, but they are challenging to mine and extract.","Silicon, the most well-known mineral used in electronics, is used for manufacturing semiconductors and microchips, which are the brains behind electronic devices.","Miners once used canaries to detect dangerous gases in coal mines. If the canary stopped singing or died, it was a sign of unsafe conditions.","Miners have a rich tradition of creating songs to pass the time and communicate underground. These songs are known as pit music or miners hymns.","Coal has been used for heating for centuries, and it played a significant role in keeping homes warm during the Industrial Revolution.","Pink diamonds are among the rarest and most valuable gemstones in the world."]
 
 # Function to display the logo
 def display_logo():
@@ -50,7 +50,7 @@ def chatbot_page():
 
     if st.button("Ask"):
         if user_input:
-            st.write("#### " + facts[random.randint(0, len(facts) - 1)])
+            st.write("#### Fun fact while the bot is thinking: " + facts[random.randint(0, len(facts) - 1)])
             response = chatbotCore.run_chatbot(user_input)  # Call the chatbot function
             st.write("## Bot's Response:")
             st.write("#### " + response)
