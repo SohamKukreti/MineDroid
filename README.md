@@ -9,7 +9,7 @@ Chatbot to respond to text queries pertaining to various Acts, Rules, and Regula
  To get the chatbot running locally on your own device, install [Langchain](https://github.com/hwchase17/langchain) and other required dependencies:
 
 ```
-pip install langchain openai chromadb tiktoken unstructured
+pip install langchain openai chromadb tiktoken unstructured streamlit googletrans==3.1.0a0
 ```
 Head over to `constants.py` and insert your own [OpenAI API key](https://platform.openai.com/account/api-keys).
 
@@ -21,7 +21,7 @@ REPLICATE_API_TOKEN = <your replicate api token>
 ```
 3. Finally install all the required dependencies
 ```
-pip install langchain tiktoken replicate streamlit_chat googletrans==3.1.0a0
+pip install langchain tiktoken replicate streamlit_chat 
 ```
 ## Running the bot at your terminal:
 To run the chatbot load your preferred .txt file.
