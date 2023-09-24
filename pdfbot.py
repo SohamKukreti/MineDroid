@@ -59,15 +59,15 @@ def display_chat_history(chain):
 def create_conversational_chain(vector_store):
     load_dotenv()
     # Create llm
-    #llm = CTransformers(model="llama-2-7b-chat.ggmlv3.q4_0.bin",
-                        #streaming=True, 
-                        #callbacks=[StreamingStdOutCallbackHandler()],
-                        #model_type="llama", config={'max_new_tokens': 500, 'temperature': 0.01})
+    # llm = CTransformers(model="llama-2-7b-chat.ggmlv3.q4_0.bin",
+    # streaming=True,
+    # callbacks=[StreamingStdOutCallbackHandler()],
+    # model_type="llama", config={'max_new_tokens': 500, 'temperature': 0.01})
     llm = Replicate(
-        streaming = True,
-        model = "replicate/llama-2-70b-chat:58d078176e02c219e11eb4da5a02a7830a283b14cf8f94537af893ccff5ee781", 
+        streaming=True,
+        model="replicate/llama-2-70b-chat:58d078176e02c219e11eb4da5a02a7830a283b14cf8f94537af893ccff5ee781",
         callbacks=[StreamingStdOutCallbackHandler()],
-        input = {"temperature": 0.01, "max_length" :500,"top_p":1})
+        input={"temperature": 0.01, "max_length": 500, "top_p": 1})
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
 
     chain = ConversationalRetrievalChain.from_llm(llm=llm, chain_type='stuff',
@@ -75,15 +75,11 @@ def create_conversational_chain(vector_store):
                                                  memory=memory)
     return chain
 
-def main():
+def pdf_reader():
     load_dotenv()
     # Initialize session state
     initialize_session_state()
-    st.title("MineDroid- pdf reader:")
-    # Initialize Streamlit
-    st.sidebar.title("Welcome")
     uploaded_files = st.sidebar.file_uploader("Upload files", accept_multiple_files=True)
-
 
     if uploaded_files:
         text = []
@@ -109,7 +105,7 @@ def main():
         text_chunks = text_splitter.split_documents(text)
 
         # Create embeddings
-        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2", 
+        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2",
                                            model_kwargs={'device': 'cpu'})
 
         # Create vector store
@@ -118,8 +114,7 @@ def main():
         # Create the chain object
         chain = create_conversational_chain(vector_store)
 
-        
         display_chat_history(chain)
 
 if __name__ == "__main__":
-    main()
+    pdf_reader()
