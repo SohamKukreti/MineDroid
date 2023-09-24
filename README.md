@@ -30,6 +30,12 @@ To run the chatbot load your preferred .txt file.
 > python chatbotCore.py
 Input some text:
 ```
+## To acess the UI:
+
+```
+> streamlit run landing.py
+```
+
 To run the pdf reader type in the following command at your terminal after following the instructions given in the [Setup section](#local-setup-and-installation)
 
 ```
