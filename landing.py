@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import random
 from googletrans import Translator
 import chatbotCore  # Import the modified chatbotCore module
 
@@ -7,14 +8,16 @@ st.set_page_config(page_title="Multi-Page Landing", layout="wide")
 
 menu = st.sidebar.selectbox("Navigation", ["Home", "ChatBot", "PDF_Reader", "Contact"])
 
+facts = ["fact1","fact2","fact3","fact4","fact5","fact6","fact7","fact8","fact9","fact10"]
+
 def home_page():
     st.title("🧠 MineDroid")
     st.header("Welcome to the Home Page!")
-    st.header("Select your Option from the Sidebar selectbox! 😃")
-    st.header("We have 3 features available!")
-    st.header("1) Chat Bot")
-    st.header("2) PDF Reader")
-    st.header("3) You can use the application on the Mobile Remote device")
+    st.write("### Select your Option from the Sidebar selectbox! 😃")
+    st.write("#### We have 3 features available!")
+    st.write("#### 1) Chat Bot")
+    st.write("#### 2) PDF Reader")
+    st.write("#### 3) You can use the application on the Mobile Remote device")
     
 def chatbot_page():
     st.title("🤖 ChatBot Page")
@@ -25,9 +28,10 @@ def chatbot_page():
     
     if st.button("Ask"):
         if user_input:
+            st.write("#### " + facts[random.randint(0,9)])
             response = chatbotCore.run_chatbot(user_input)  # Call the chatbot function
-            st.write("Bot's Response:")
-            st.write(response)
+            st.write("## Bot's Response:")
+            st.write("#### " + response)
         else:
             st.warning("Please enter a query before clicking 'Ask'.")
 
