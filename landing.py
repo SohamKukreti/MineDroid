@@ -35,16 +35,10 @@ def home_page():
     display_logo()
     st.title("🤖 MineDroid")
     st.header("Welcome to the Home Page!")
-    st.write("### Select your Option from the Sidebar selectbox! 😃")
-    st.write("#### We have 3 features available!")
-
-    # Create buttons to navigate to different pages
-    if st.button("1) Chat Bot"):
-        navigate_to_chatbot()
-    if st.button("2) PDF Reader"):
-        navigate_to_pdf_reader()
-    if st.button("3) Mobile Device"):
-        navigate_to_mobile_device()
+    st.write("### Select your Option from the Sidebar selectbox! 😃 \n--------")
+    st.write("### Our Mission:")
+    st.write("##### Our mission is to empower individuals, including those without specialized legal knowledge, with easy access to comprehensive information on Indian mining laws, rules, and regulations. Through our website featuring two intelligent chatbots, we aim to simplify the complexities of mining-related inquiries. Our normal chatbot provides real-time, user-friendly responses to queries, while our PDF reader chatbot extracts and summarizes key insights from lengthy legal documents, ensuring that everyone can navigate and understand the intricacies of Indian mining laws effortlessly, ultimately promoting transparency, compliance, and informed decision-making in the mining sector.")
+   
 
 def chatbot_page():
     display_logo()
