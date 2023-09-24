@@ -8,7 +8,7 @@ st.set_page_config(page_title="Multi-Page Landing", layout="wide")
 
 menu = st.sidebar.selectbox("Navigation", ["Home", "ChatBot", "PDF_Reader", "Contact"])
 
-facts = ["fact1","fact2","fact3","fact4","fact5","fact6","fact7","fact8","fact9","fact10"]
+facts = ["fact1","fact2","fact3","fact4","fact5","fact6","fact7","fact8","fact9","fact10","fact11"]
 
 def home_page():
     st.title("🧠 MineDroid")
@@ -28,7 +28,7 @@ def chatbot_page():
     
     if st.button("Ask"):
         if user_input:
-            st.write("#### " + facts[random.randint(0,9)])
+            st.write("#### " + facts[random.randint(0,len(facts)-1)])
             response = chatbotCore.run_chatbot(user_input)  # Call the chatbot function
             st.write("## Bot's Response:")
             st.write("#### " + response)
