@@ -50,7 +50,9 @@ def chatbot_page():
 
     if st.button("Ask"):
         if user_input:
-            st.write("#### Fun fact while the bot is thinking: " + facts[random.randint(0, len(facts) - 1)])
+            translator = Translator()
+            detected_lang = translator.detect(user_input).lang
+            st.write("#### Fun fact while the bot is thinking: " + translator.translate(facts[random.randint(0, len(facts) - 1)],dest = detected_lang).text)
             response = chatbotCore.run_chatbot(user_input)  # Call the chatbot function
             st.write("## Bot's Response:")
             st.write("#### " + response)
